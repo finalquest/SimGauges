@@ -1,0 +1,39 @@
+[Eagle]
+Version="07 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/GeekAmmo.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/LilyPad-Wearables.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Aesthetics.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-AnalogIC.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Boards.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Capacitors.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Connectors.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-DigitalIC.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Displays.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Electromechanical.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-FreqCtrl.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-LED.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Passives.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-PowerIC.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-RF.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Resistors.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Retired.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/SparkFun-Sensors.lbr"
+UsedLibrary="D:/Fer/Arduino/SparkFun-Eagle-Libraries-master/SparkFun-Eagle-Libraries-master/User-Submitted.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="-4 -4 1019 707"
+State=1
+Number=0
+
+[Desktop]
+Screen="1024 768"
+Window="Win_1"
